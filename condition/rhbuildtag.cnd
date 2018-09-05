@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="Adventure" backcolor="#800080"></prop>
+  <prop att="Others" val="ALL" backcolor="#4bdda7"></prop>
+  <prop att="Others" val="AuthorContent" backcolor="#b16743"></prop>
+  <prop att="Others" val="Canada" backcolor="#ff0000"></prop>
+  <prop att="Others" val="Content" backcolor="#000080"></prop>
+  <prop att="Others" val="CorporateTravel" backcolor="#ffff00"></prop>
+  <prop att="Others" val="Developer" backcolor="#49d1bb"></prop>
+  <prop att="Others" val="DHTML" backcolor="#c0c0c0"></prop>
+  <prop att="Others" val="Dynamic_Filters" backcolor="#050ab1"></prop>
+  <prop att="Others" val="Dynamic_Only" backcolor="#ebbde2"></prop>
+  <prop att="Others" val="eBookOnly" backcolor="#808000"></prop>
+  <prop att="Others" val="EndUser" backcolor="#800000"></prop>
+  <prop att="Others" val="Explanations" backcolor="#e8e8e8"></prop>
+  <prop att="Others" val="LeisureTravel" backcolor="#ff00ff"></prop>
+  <prop att="Others" val="Marketing" backcolor="#808080"></prop>
+  <prop att="Others" val="Mode_AIR" backcolor="#d34a4c"></prop>
+  <prop att="Others" val="Mode_RAIL" backcolor="#a40a7d"></prop>
+  <prop att="Others" val="Mode_SEA" backcolor="#355763"></prop>
+  <prop att="Others" val="MultipleFilter" backcolor="#c9307f"></prop>
+  <prop att="Others" val="Not_eBook" backcolor="#008080"></prop>
+  <prop att="Others" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Others" val="Online_Only" backcolor="#19153a"></prop>
+  <prop att="Others" val="Print" backcolor="#ff0000"></prop>
+  <prop att="Others" val="Sales" backcolor="#8312ab"></prop>
+  <prop att="Others" val="SingleFilter" backcolor="#512327"></prop>
+  <prop att="Others" val="Tip" backcolor="#476085"></prop>
+  <prop att="Others" val="UK" backcolor="#008000"></prop>
+  <prop att="Others" val="US" backcolor="#0000ff"></prop>
+  <prop att="Others" val="Videos" backcolor="#9835fc"></prop>
+</val>
